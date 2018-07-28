@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="hotels_title">
+        <item>
+        OYO 15764 Hotel Akash Continental
+        </item>
+        <item>
+        OYO 4184 Hotel The RTS
+        </item>
+        <item>
+        OYO Flagship 16365 Hotel Delight
+        </item>
+        <item>
+        OYO 16888 Hotel Dollar Inn
+        </item>
+        <item>
+        OYO 16072 Hanuwant Palace
+        </item>
+    </string-array>
+    <string-array name="hotel_details">
+        <item>
+        CE-1, Shaheed Mangal Pandey Marg, Nanak Pura, Hari Nagar, Delhi
+        </item>
+        <item>
+        Road no 2, Mahipalpur, Delhi
+        </item>
+        <item>
+        Near BOI, Near Chattarpur Temple, Main Chattarpur Road, Delhi
+        </item>
+        <item>
+        Chandi Wali Gali, Sidarth Basti, Aram Bagh, Paharganj, Delhi
+        </item>
+        <item>
+        Gali No.1, Mahipalpur, Delhi
+        </item>
+    </string-array>
+    <string-array name="events_title">
+        <item>
+        Infra Sports Badminton Tournament
+        </item>
+        <item>
+Mandala Doodling Workshop by Delhi Drawing Room
+        </item>
+        <item>
+Born To Play Table Tennis Tournament- July '18 Edition
+        </item>
+    </string-array>
+    <string-array name="event_detail">
+        <item>
+        Date :  28th-29th July, 2018\n
+
+        Venue : DDA, Saket Sports Complex\n
+
+        Timing : 11:00 am 03:00 pm\n
+
+        INFRA Sports announces its Badminton Tournament open to all.\n
+
+        Gear up, make a team and get ready to show us your flicks and smashes!
+        </item>
+        <item>
+Learn to doodle intricate mandalas in a fun &amp; informal space. For people who have never painted, or are scared of drawing this is a great opportunity to get started! We take care of all the art materials &amp; all the guidance needed.
+
+We have the best eco pigments pens from Faber Castell that makes doodling patterns a breeze. Also carry a surprise goodie bag along with your creation.
+
+The word mandala comes from the Sanskrit language in ancient India, these sacred circles have been found in hundreds of cultures. They are always symmetrical, and they always draw your eye in towards the center. It represents the wholeness, or the strength and unity of community, or the lovely, cyclical progression of time.
+
+Mandalas also occur quite often in nature. In the nesting rings of a tree trunk, the sectioned slice of an orange, and the way the great Universe itself spins around and cradles its clouds.
+        </item>
+        <item>
+For all those who could not secure seats in the June Edition of Born To Play Table Tennis Tournament, do not wait for the last moment to book tickets.\n\n
+
+Register Now!\n\n
+
+Born To Play is back with Table Tennis Tournament- July 2018 Edition.\n
+
+Venue- Commonwealth Games Village, New Delhi\n
+Date- 28th July 2018
+        </item>
+    </string-array>
+    <string-array name="history_title">
+        <item>
+            India Gate
+        </item>
+        <item>
+Lodi Garden
+        </item>
+        <item>
+Red Fort
+        </item>
+    </string-array>
+    <string-array name="history_details">
+        <item>
+Synonymous with New Delhi and situated in the heart of the city, India Gate is one of the most popular monuments in the city. The foundation stone of India Gate was laid in 1920 and the structure was unveiled in 1933. Designed by Edwin Lutyens, India Gate was dedicated to all the Indian soldiers of the British Army who died in World War I. Another memorial, the Amar Jawan Jyoti was added later and was dedicated to soldiers who sacrificed their lives in the Indo-Pakistan war of 1971.
+
+The India Gate is flanked by lush green lawns, which are a popular picnic spot, especially during winter afternoons and summer evenings. The wide roads surrounding the India Gate are also frequented by morning and evening walkers. There is also a small pond nearby where one can enjoy boating as well. At nightfall India Gate is beautifully lit up, including the surrounding fountains and makes for a beautiful sight.
+        </item>
+        <item>
+Dotted with monuments and tombs from the Lodi and Sayyed periods of history, the Lodi Gardens in one of Delhi’s popular tourist attractions. Emblematic of 16th century architectural styles, the Lodi Gardens contain the tombs of Muhammad Shah and Sikandar Lodi.
+
+Despite being a historical monument, the Lodi Gardens has become an integral part of the lives of many Delhites as many picnickers, walkers and joggers frequent the gardens in the mornings and evenings.
+
+The Lodi Gardens also contain the National Bonsai Park, which is home to a wide variety miniature tress. The best time to go to the Lodi Gardens is around sunset when the sunlight is mellow and the tombs are beautifully lit up.
+
+
+        </item>
+        <item>
+The Red Fort-a massive red sandstone fort is synonymous with Delhi and is proof of the glory of the flourishing Mughal Empire in Delhi.
+
+Commissioned by Shah Jahan in 1638 when he decided to shift the capital of the Mughal Empire from Agra to Delhi, the Red Fort took a total of ten years to be completed. The main gate to the Red Fort is the Lahore Gate and is also the site for the Prime Ministers speech every year on Independence Day. A UNESCO World Heritage Site, the Red Fort is spread over a rambling 254.67 acres and the walls alone are around 2kilometres long.
+
+The Red Fort is octagonal in design and there are beautiful flower decorations and calligraphy on the walls, examples of later Mughal style architecture. At one point the Read Fort was surrounded by a deep moat, used to keep intruders out. The Red Fort contains the Diwan-e-Aam, the Diwan-e-Khas, the Moti Masjid and the Hayat Baksh Bagh among other interesting architectural elements.
+        </item>
+    </string-array>
+    <string-array name="fav_title">
+        <item>
+            Hauz Khas
+        </item>
+        <item>
+Kingdom of Dreams
+        </item>
+        <item>
+Paranthe Wali Gali
+        </item>
+
+    </string-array>
+    <string-array name="fav_details">
+        <item>
+Hauz Khas is a beautiful neighbourhood of South Delhi and is one of the major tourist places in Delhi. The pulse of Hauz Khas is known to be the historically important Hauz Khaz Complex. It exhibits both rural and urban atmosphere and also known as mehak ka chota quila. The location is surrounded by Green Park to the west and Gulmohar Park towards the north. It had witnessed different diplomatic missions like the Albania, Iraq, Guines, Burundi, Macedonia Missions and more.
+        </item>
+        <item>
+India’s first live entertainment, theatre and leisure spot is Kingdom of Dream in NCR Delhi located near the Leisure Valley Park. As a master destination for all types of entertainment and art based innovations, the Kingdom of Dreams was inaugurated by the Chief Minister of Haryana and it was open to the public on 18th September 2010. The opening day witnessed the special preview of the Bollywood musical, Zangoora portraying the famous stars like Hussain Kuwajerwala, Gauhar Khan, and Kashmira Irani.
+        </item>
+        <item>
+A tapered street in Chandni Chowk area, Paranthe Wali Gali is noted because of its sequential shops located one after the other known for selling paratha, a typical Indian unleavened thin bread. The food sold in Paranthe Wali Gali is strictly vegetarian, presented in old retrospective style without any addition of onion or garlic to the food.
+
+This is because the owner of the particular series of a shop is a Brahmin and the neighbourhood includes the Jain population. The menu includes mix paratha, khoya parantha, rabri parantha, parat parantha. The parantha generally is served along with mint, mixed or sweet tamarind chutney, potato or paneer curry sautéed with rich sweet and spicy pumpkin.
+        </item>
+    </string-array>
+</resources>
